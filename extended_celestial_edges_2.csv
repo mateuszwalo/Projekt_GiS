@@ -1,0 +1,201 @@
+Source,Target,Relation,Weight
+Asteroid-91,Asteroid-40,Gravitational Interaction,52
+Triton,Asteroid-97,Gravitational Interaction,66
+Asteroid-71,Kalisto,Gravitational Interaction,31
+Asteroid-59,Enceladus,Gravitational Interaction,58
+Asteroid-31,Ceres,Orbita,7
+Asteroid-37,Asteroid-49,Data Exchange,32
+Vesta,Asteroid-41,Gravitational Interaction,25
+Asteroid-97,Vesta,Data Exchange,66
+Asteroid-59,Asteroid-63,Gravitational Interaction,64
+Wenus,Europa,Data Exchange,65
+Asteroid-58,Asteroid-30,Exploration,75
+Asteroid-45,Saturn,Orbita,37
+Asteroid-63,Asteroid-76,Data Exchange,37
+Asteroid-68,Merkury,Orbita,56
+Charon,Asteroid-33,Gravitational Interaction,98
+Asteroid-51,Asteroid-46,Orbita,52
+Saturn,Asteroid-72,Exploration,47
+Asteroid-70,Asteroid-36,Orbita,50
+Asteroid-64,Asteroid-57,Gravitational Interaction,80
+Asteroid-87,Asteroid-78,Orbita,17
+Ganimedes,Asteroid-50,Gravitational Interaction,44
+Asteroid-71,Asteroid-46,Exploration,26
+Asteroid-77,Asteroid-65,Data Exchange,65
+Jowisz,Mars,Exploration,92
+Asteroid-42,Asteroid-60,Data Exchange,20
+Asteroid-77,Asteroid-65,Exploration,42
+Asteroid-78,Asteroid-40,Exploration,51
+Asteroid-78,Asteroid-94,Gravitational Interaction,76
+Asteroid-43,Asteroid-64,Data Exchange,91
+Asteroid-72,Asteroid-38,Data Exchange,3
+Asteroid-47,Asteroid-42,Orbita,54
+Asteroid-74,Asteroid-39,Orbita,77
+Asteroid-60,Asteroid-33,Exploration,93
+Saturn,Asteroid-74,Data Exchange,22
+Asteroid-67,Asteroid-80,Data Exchange,19
+Asteroid-87,Asteroid-31,Orbita,74
+Asteroid-89,Titan,Exploration,3
+Asteroid-56,Asteroid-40,Data Exchange,20
+Asteroid-52,Asteroid-88,Exploration,53
+Asteroid-64,Asteroid-99,Data Exchange,95
+Asteroid-93,Uran,Exploration,67
+Asteroid-26,Asteroid-71,Gravitational Interaction,85
+Asteroid-61,Asteroid-67,Data Exchange,41
+Pluton,Asteroid-58,Gravitational Interaction,70
+Asteroid-45,Asteroid-86,Gravitational Interaction,79
+Asteroid-61,Makemake,Exploration,36
+Asteroid-71,Asteroid-38,Exploration,39
+Asteroid-98,Asteroid-36,Exploration,89
+Asteroid-90,Asteroid-62,Gravitational Interaction,62
+Asteroid-44,Asteroid-71,Gravitational Interaction,37
+Enceladus,Asteroid-73,Data Exchange,51
+Asteroid-44,Asteroid-98,Exploration,38
+Jowisz,Asteroid-36,Orbita,45
+Asteroid-56,Asteroid-83,Gravitational Interaction,96
+Asteroid-61,Asteroid-27,Exploration,69
+Asteroid-34,Asteroid-71,Gravitational Interaction,18
+Kalisto,Asteroid-78,Exploration,32
+Saturn,Asteroid-85,Exploration,82
+Asteroid-29,Saturn,Orbita,53
+Asteroid-42,Asteroid-91,Data Exchange,13
+Asteroid-87,Asteroid-98,Exploration,1
+Asteroid-70,Vesta,Data Exchange,84
+Asteroid-60,Asteroid-61,Exploration,97
+Asteroid-36,Asteroid-41,Gravitational Interaction,83
+Uran,Asteroid-98,Orbita,84
+Asteroid-73,Asteroid-29,Orbita,23
+Asteroid-53,Pluton,Orbita,51
+Asteroid-63,Haumea,Gravitational Interaction,5
+Merkury,Asteroid-38,Orbita,43
+Asteroid-36,Asteroid-58,Data Exchange,18
+Asteroid-64,Asteroid-59,Gravitational Interaction,25
+Titan,Asteroid-42,Exploration,94
+Asteroid-58,Asteroid-82,Gravitational Interaction,92
+Haumea,Merkury,Gravitational Interaction,38
+Asteroid-72,Asteroid-86,Exploration,23
+Asteroid-78,Asteroid-81,Data Exchange,55
+Asteroid-65,Asteroid-41,Orbita,52
+Asteroid-85,Ganimedes,Exploration,18
+Asteroid-61,Asteroid-41,Exploration,1
+Asteroid-33,Asteroid-49,Exploration,58
+Asteroid-96,Asteroid-34,Gravitational Interaction,39
+Asteroid-74,Asteroid-92,Orbita,34
+Asteroid-83,Asteroid-46,Exploration,8
+Asteroid-85,Enceladus,Data Exchange,40
+Vesta,Asteroid-51,Gravitational Interaction,89
+Enceladus,Asteroid-81,Gravitational Interaction,48
+Asteroid-78,Asteroid-28,Exploration,18
+Asteroid-61,Pallas,Data Exchange,96
+Asteroid-77,Asteroid-47,Data Exchange,90
+Asteroid-70,Asteroid-60,Exploration,98
+Asteroid-31,Asteroid-87,Orbita,68
+Asteroid-57,Asteroid-67,Gravitational Interaction,10
+Asteroid-72,Titan,Orbita,71
+Asteroid-64,Eris,Exploration,22
+Asteroid-41,Asteroid-66,Data Exchange,15
+Asteroid-87,Asteroid-26,Data Exchange,12
+Asteroid-65,Asteroid-57,Orbita,59
+Triton,Asteroid-65,Data Exchange,59
+Asteroid-72,Uran,Data Exchange,87
+Asteroid-39,Asteroid-92,Orbita,51
+Asteroid-32,Słońce,Exploration,75
+Księżyc,Jowisz,Data Exchange,45
+Asteroid-89,Neptun,Orbita,9
+Asteroid-60,Mars,Gravitational Interaction,53
+Haumea,Asteroid-98,Exploration,99
+Asteroid-82,Asteroid-93,Data Exchange,48
+Asteroid-48,Asteroid-57,Data Exchange,49
+Io,Asteroid-87,Exploration,84
+Asteroid-44,Enceladus,Exploration,69
+Asteroid-50,Asteroid-67,Exploration,94
+Asteroid-28,Słońce,Orbita,39
+Asteroid-59,Asteroid-86,Data Exchange,69
+Asteroid-48,Asteroid-29,Exploration,59
+Asteroid-44,Pallas,Gravitational Interaction,25
+Asteroid-92,Asteroid-97,Orbita,5
+Asteroid-84,Asteroid-53,Orbita,31
+Asteroid-26,Neptun,Orbita,77
+Mars,Asteroid-57,Orbita,32
+Asteroid-94,Jowisz,Data Exchange,57
+Asteroid-29,Asteroid-69,Exploration,97
+Asteroid-99,Uran,Exploration,65
+Asteroid-37,Asteroid-29,Gravitational Interaction,74
+Asteroid-76,Asteroid-98,Gravitational Interaction,31
+Asteroid-38,Ceres,Exploration,53
+Asteroid-38,Asteroid-35,Orbita,72
+Asteroid-75,Asteroid-94,Exploration,81
+Asteroid-86,Asteroid-54,Data Exchange,7
+Asteroid-44,Asteroid-82,Data Exchange,68
+Asteroid-40,Asteroid-89,Data Exchange,53
+Pallas,Asteroid-38,Data Exchange,24
+Asteroid-96,Asteroid-68,Data Exchange,31
+Asteroid-28,Asteroid-38,Exploration,60
+Uran,Asteroid-71,Data Exchange,54
+Asteroid-71,Asteroid-67,Exploration,50
+Asteroid-31,Asteroid-32,Exploration,43
+Asteroid-82,Io,Data Exchange,48
+Europa,Asteroid-68,Exploration,7
+Asteroid-34,Asteroid-48,Orbita,10
+Makemake,Asteroid-97,Exploration,62
+Asteroid-26,Asteroid-42,Gravitational Interaction,2
+Asteroid-27,Makemake,Orbita,96
+Asteroid-96,Asteroid-61,Exploration,90
+Asteroid-77,Asteroid-90,Exploration,51
+Asteroid-30,Asteroid-70,Gravitational Interaction,100
+Asteroid-36,Asteroid-48,Data Exchange,69
+Asteroid-83,Asteroid-45,Gravitational Interaction,34
+Asteroid-46,Asteroid-65,Data Exchange,60
+Ganimedes,Asteroid-92,Data Exchange,98
+Asteroid-40,Asteroid-26,Gravitational Interaction,41
+Asteroid-52,Jowisz,Exploration,95
+Ceres,Wenus,Gravitational Interaction,71
+Asteroid-74,Asteroid-92,Data Exchange,38
+Pallas,Eris,Gravitational Interaction,30
+Asteroid-48,Asteroid-72,Exploration,64
+Asteroid-70,Asteroid-83,Gravitational Interaction,33
+Asteroid-97,Asteroid-62,Data Exchange,59
+Hygiea,Asteroid-93,Gravitational Interaction,22
+Charon,Asteroid-92,Data Exchange,24
+Asteroid-69,Asteroid-82,Orbita,68
+Mars,Księżyc,Orbita,98
+Słońce,Asteroid-52,Exploration,81
+Asteroid-29,Neptun,Exploration,2
+Asteroid-27,Asteroid-64,Data Exchange,48
+Uran,Asteroid-79,Data Exchange,85
+Asteroid-62,Wenus,Orbita,69
+Asteroid-70,Asteroid-52,Orbita,3
+Asteroid-67,Asteroid-92,Gravitational Interaction,69
+Asteroid-36,Wenus,Data Exchange,23
+Kalisto,Ganimedes,Exploration,31
+Makemake,Asteroid-79,Gravitational Interaction,46
+Asteroid-34,Asteroid-50,Orbita,48
+Asteroid-51,Asteroid-58,Exploration,90
+Asteroid-28,Asteroid-38,Orbita,84
+Asteroid-83,Asteroid-97,Orbita,12
+Asteroid-51,Asteroid-48,Data Exchange,71
+Asteroid-60,Uran,Orbita,90
+Hygiea,Io,Data Exchange,56
+Asteroid-82,Asteroid-42,Orbita,68
+Jowisz,Asteroid-29,Exploration,89
+Asteroid-72,Asteroid-60,Gravitational Interaction,6
+Księżyc,Asteroid-87,Gravitational Interaction,70
+Asteroid-72,Asteroid-84,Orbita,23
+Asteroid-40,Wenus,Exploration,76
+Ceres,Asteroid-96,Data Exchange,10
+Asteroid-38,Vesta,Exploration,73
+Asteroid-49,Asteroid-86,Gravitational Interaction,50
+Asteroid-96,Asteroid-94,Exploration,89
+Asteroid-92,Io,Gravitational Interaction,7
+Ganimedes,Asteroid-55,Exploration,10
+Asteroid-43,Asteroid-77,Data Exchange,100
+Asteroid-41,Ziemia,Gravitational Interaction,58
+Asteroid-62,Asteroid-29,Gravitational Interaction,71
+Asteroid-48,Asteroid-55,Exploration,88
+Asteroid-74,Asteroid-84,Data Exchange,11
+Asteroid-98,Asteroid-79,Gravitational Interaction,32
+Asteroid-91,Księżyc,Orbita,35
+Pallas,Asteroid-48,Exploration,95
+Asteroid-49,Asteroid-40,Gravitational Interaction,14
+Europa,Słońce,Gravitational Interaction,57
+Asteroid-46,Asteroid-97,Gravitational Interaction,14
